@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RonZaretsky
 - 👀 I’m interested in developing my programming skills
-- 🌱 I’m currently learning C++,C#
+- 🌱 I'm currently working with flutter and dart, working on developing my knowledge in c, c++, c# and java.
 - 💞️ I’m looking to collaborate on  - not right now
 - 📫 How to reach me ronz2512@icloud.com
 
