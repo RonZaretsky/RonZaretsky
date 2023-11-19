@@ -1,10 +1,12 @@
 # Ron Zaretsky
 
 ## About Me
-I am **Ron Zaretsky**, a B.Sc. Sciences student with a focus on computer science. I have a strong passion for programming and software development. My primary area of interest lies in embedded systems and the C language. I enjoy working on challenging projects that require a deep understanding of hardware and low-level programming.
+I am **Ron Zaretsky**, a computer science focused B.Sc. in science student. Experienced software developer with strong self-learning abilities, quick adaptability, and effective teamwork skills. Excellent interpersonal skills and highly sociable. Passionate about my work, with a strong desire to continue learning and growing.
+
 
 ## Experience
-I have **1 year** of experience working with **Flutter** and implementing the **Bloc architecture**. During this time, I have developed various mobile applications using these technologies. I have a solid understanding of state management and reactive programming concepts.
+**2 year** of experience working with **Flutter** and implementing the **Bloc architecture**. During this time, I have developed various mobile applications using these technologies. I have a solid understanding of state management and reactive programming concepts.
+
 
 ## Programming Languages
 I am proficient in the following programming languages:
